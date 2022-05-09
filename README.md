@@ -1,16 +1,14 @@
-### Hi there 👋
+## Ciao mondo! 👋 I'm Mohamed Emam 😀
+A Self-taught Developer 💻 from the land of Pharaohs "EGYPT" 🌤
 
-<!--
-**realMohamedEmam/realMohamedEmam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/realMohamedEmam)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/realMohamedEmam)
+[![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/realMohamedEmam)
 
-Here are some ideas to get you started:
+## Superpowers 💪
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,sass)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Bio 📖
+- 🔭 I’m currently working on building more fun projects & gain more superpowers 🐱‍🏍
+- 💬 Ask me about CHESS ♟ It's the Kings' game and I'm in love with it 🤩
+- ⚡ Fun fact: I'm back again to Boxing 🥊 and working out daily, maybe one day i will be the next "MUHAMMAD ALI" 
