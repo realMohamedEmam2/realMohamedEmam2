@@ -1,10 +1,6 @@
 ## Ciao mondo! 👋 I'm Mohamed Emam 😀
 A Self-taught Developer 💻 from the land of Pharaohs "EGYPT" 🌤
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/realMohamedEmam)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/realMohamedEmam)
-[![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/realMohamedEmam)
-
 ## Superpowers 💪
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,git,sass)
 
