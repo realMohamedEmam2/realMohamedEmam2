@@ -2,7 +2,7 @@
 A Self-taught Developer 💻 from the land of Pharaohs "EGYPT" 🌤
 
 ## Superpowers 💪
-![My Skills](https://skillicons.dev/icons?i=html,css,js,git,sass)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,git)
 
 ## Bio 📖
 - 🔭 I’m currently working on building more fun projects & gain more superpowers 🐱‍🏍
