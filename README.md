@@ -4,6 +4,7 @@ A Self-taught Developer 💻 from the land of Pharaohs "EGYPT" 🌤
 [<img src="https://img.shields.io/badge/Portfolio-282C34?logo=about.me" height="25"/>](https://www.mohamedemam.com)
 [<img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail" height="25"/>](mailto:realMohamedEmam@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" height="25"/>](https://www.linkedin.com/in/realMohamedEmam)
+[<img src="https://img.shields.io/badge/Twitter-282C34?logo=twitter" height="25"/>](https://twitter.com/realMohamedEmam)
 [<img src="https://img.shields.io/badge/Codepen-282C34?logo=codepen" height="25"/>](https://codepen.io/realMohamedEmam)
 
 ## Superpowers 💪
